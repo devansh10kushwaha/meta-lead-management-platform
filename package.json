@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.19.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "expo": "^54.0.37",
+    "express": "^5.2.1",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
+  }
+}
