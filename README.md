@@ -1,4 +1,4 @@
-# Meta Lead Privacy Policy
+# Meta Lead Management System
 
 A full-stack application designed to manage Meta lead data and provide a dedicated privacy-policy experience for applications that interact with Meta lead information.
 
